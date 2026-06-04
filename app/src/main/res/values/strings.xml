@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CinemAndre</string>
+
+    <string name="btn_retry">Retry</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_rating">Rating</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="error_unknown">An unknown error occurred</string>
+
+    <string name="browse_genres">Browse Genres</string>
+    <string name="featured_genre_label">FEATURED GENRE</string>
+    <string name="featured_genre_title">Cyberpunk\nDystopia</string>
+    <string name="cd_featured">Featured</string>
+
+    <string name="genre_explorer">%1$s Explorer</string>
+    <string name="beyond_the_stars">Beyond the Stars</string>
+    <string name="discover_tagline">Discover cinematic journeys into the unknown, from dystopian futures to distant galaxies.</string>
+
+    <string name="synopsis">Synopsis</string>
+    <string name="user_reviews">User Reviews</string>
+    <string name="rating_format">%.1f</string>
+    <string name="cd_play_trailer">Play Trailer</string>
+    <string name="no_reviews">No Reviews Yet</string>
+    <string name="be_first_review">Be the first to share your thoughts on this movie.</string>
+</resources>
